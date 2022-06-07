@@ -4,7 +4,7 @@ export default function App() {
     <div class="shrink-0">
     </div>
     <div>
-      <div class="text-xl font-medium text-black">ChitChat</div>
+      <div class="text-xl font-medium text-primary">ChitChat</div>
       <p class="text-slate-500">You have a new message!</p>
     </div>
   </div>
