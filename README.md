@@ -1,6 +1,6 @@
 Tutorials I am following:
 - Tutorial 1: https://youtu.be/L2KHCWJ3gjs (done)
-- Tutorial 2: https://youtu.be/pfaSUYaSgRo?t=417 (6:57)
+- Tutorial 2: https://youtu.be/pfaSUYaSgRo?t=473 (7:53)
 
 # Getting Started with Create React App
 
