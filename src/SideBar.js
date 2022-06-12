@@ -9,3 +9,7 @@ export default function SideBar () {
         </div>
     )
 }
+
+const SideBarIcon = ({ icon }) => (
+    <div className="sidebar-icon">{icon}</div>
+)
